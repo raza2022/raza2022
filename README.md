@@ -5,7 +5,7 @@ This is the place where I opensource stuff and break things :rofl:
 - 🔭 &nbsp;I’m currently working on something cool to outsource AI :wink:
 - 🌱 &nbsp;I’m currently learning TypeScript
 - 💬 &nbsp;Ask me about anything related to Javascript/Typescript/MongoDB/React/Express or AWS
-- ⚡ &nbsp;Fun fact: I :heart: :cat: and I know a secret that 98% of people don't know (don't ask me please: wink:)
+- ⚡ &nbsp;Fun fact: I :heart: :cat: and I know a secret that 98% of people don't know (don't ask me please :wink:)
 
 ### Languages and Technologies:
 
