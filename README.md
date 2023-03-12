@@ -13,7 +13,7 @@ This is the place where I opensource stuff and break things :rofl:
   <img alt="html5" src="https://img.shields.io/badge/-html-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img alt="CSS3" src="https://img.shields.io/badge/-css-2962FF?style=for-the-badge&logo=css3&logoColor=white"/>
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-f4f725?style=for-the-badge&logo=JavaScript&logoColor=black"/>
-  <img alt="JavaScript" src="https://img.shields.io/badge/-TypeScript-3178c6?style=for-the-badge&logo=TypeScript&logoColor=#3178C6"/>
+  <img alt="JavaScript" src="https://img.shields.io/badge/-TypeScript-3178c6?style=for-the-badge&logo=TypeScript&logoColor=black"/>
   <img alt="React" src="https://img.shields.io/badge/-react-282c34?style=for-the-badge&logo=react&logoColor=61dafb"/>
   <img alt="Redux" src="https://img.shields.io/badge/-Meteor-9217d4?style=for-the-badge&logo=meteor&logoColor=#DE4F4F"/>
   <img alt="Redux" src="https://img.shields.io/badge/-Node.js-333333?style=for-the-badge&logo=node.js&logoColor=#339933"/>
